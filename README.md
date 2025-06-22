@@ -1,9 +1,9 @@
 # Olá! Eu sou o Maximillian 👋
-🎓 Estudante de Gestão da Tecnologia da Informação  
-💻 Em formação como desenvolvedor web 
-🎮 Criador de projetos com foco em criatividade, jogos e boas histórias  
-🧱 Construindo meu caminho passo a passo, com autenticidade e dedicação  
-📍 Brasil
+- 🎓 Estudante de Gestão da Tecnologia da Informação  
+- 💻 Em formação como desenvolvedor web 
+- 🎮 Criador de projetos com foco em criatividade, jogos e boas histórias  
+- 🧱 Construindo meu caminho passo a passo, com autenticidade e dedicação  
+- 📍 Brasil
 
 ## 🚀 Projetos em andamento
 - 🖥️ Site pessoal (portfólio)  
