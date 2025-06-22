@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá! Eu sou o Maximillian 👋
+🎓 Estudante de Gestão da Tecnologia da Informação  
+💻 Em formação como desenvolvedor web 
+🎮 Criador de projetos com foco em criatividade, jogos e boas histórias  
+🧱 Construindo meu caminho passo a passo, com autenticidade e dedicação  
+📍 Brasil
 
-<!--
-**lianbytes/lianbytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projetos em andamento
+- 🖥️ Site pessoal (portfólio)  
+- 🎮 Realm of Éteria – jogo mobile com narrativa de fantasia  
+- 🧪 Estudos de HTML, CSS e JavaScript
 
-Here are some ideas to get you started:
+## 👨‍💻 Explorando...
+Atualmente focado em aprender os fundamentos da programação e descobrir quais áreas mais combinam comigo.  
+Me interesso por criatividade, tecnologia e projetos que tenham propósito.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+- 📧 Email: maxcoliveira47@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/maximillianoliveira](https://linkedin.com/in/maximillianoliveira)
