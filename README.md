@@ -15,5 +15,5 @@ Atualmente focado em aprender os fundamentos da programação e descobrir quais 
 Me interesso por criatividade, tecnologia e projetos que tenham propósito.
 
 ## 📫 Contato
-- 📧 Email: maxcoliveira47@gmail.com  
+- 📧 Email: maximilliancoliveira@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/maximillianoliveira](https://linkedin.com/in/maximillianoliveira)
