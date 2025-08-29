@@ -17,3 +17,9 @@ Me interesso por criatividade, tecnologia e projetos que tenham propósito.
 ## 📫 Contato
 - 📧 Email: maximilliancoliveira@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/maximillianoliveira](https://linkedin.com/in/maximillianoliveira)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianbytes/lianbytes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianbytes/lianbytes/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lianbytes/lianbytes/output/github-contribution-grid-snake.svg">
+</picture>
